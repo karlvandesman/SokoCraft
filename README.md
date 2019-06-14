@@ -5,6 +5,7 @@ SokoCraft is a Sokoban game written in C with a theme based on StarCraft. It was
 - Edmar Soares
 - João Victor da Silva
 - Karl Vandesman de Matos
+- Lucas Targino Lins
 - Murilo Viana
 
 ## About Sokoban
@@ -49,6 +50,6 @@ For more information, visit: https://en.wikipedia.org/wiki/Sokoban.
 
 ## To do
 There are a lot of things that we can still improve on this awesome game. For instance:
-- The "IA" to generate new maps accordingly with a difficulty level chosen.
+- The "AI" to generate new maps accordingly with a difficulty level chosen.
 - The password generate by each stage should appear after complete it.
 - And more...
